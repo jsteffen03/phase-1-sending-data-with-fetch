@@ -1,30 +1,82 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "7d5c"
+    },
+    {
+      "id": "4211"
+    },
+    {
+      "id": "6150"
+    },
+    {
+      "id": "7b02"
+    },
+    {
+      "id": "18cd"
+    },
+    {
+      "id": "3efb",
+      "name": "John Doe",
+      "email": "johndoe@gmail.com"
+    },
+    {
+      "id": "1e1e"
+    },
+    {
+      "id": "2bbb"
+    },
+    {
+      "id": "30dc"
+    },
+    {
+      "id": "5e71"
+    },
+    {
+      "id": "2317"
+    },
+    {
+      "id": "13f0"
+    },
+    {
+      "id": "13a3"
+    },
+    {
+      "id": "3a52"
+    },
+    {
+      "id": "e697"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
